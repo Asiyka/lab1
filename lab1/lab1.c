@@ -10,6 +10,7 @@ double func(double x) {
 int main() {
 	double a, b, c, e;
 	int n = 0;
+	int vv = 0;
 	scanf_s("%lf %lf %lf", &a, &b, &e);
 	printf("n\ta\t\tb\t\tx0\t\tf(x0)\n");
 	while (fabs(a - b) > e){
