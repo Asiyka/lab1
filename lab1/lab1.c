@@ -21,6 +21,7 @@ int main() {
 		else if ((func(c)*func(b)) > 0) {
 			b = c;
 		}
+		int some;
 	}
 	return 0;
 }
